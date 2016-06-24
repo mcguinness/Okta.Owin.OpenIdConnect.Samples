@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.23107.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Okta.Owin.OpenIdConnect.Sample", "Okta.Owin.OpenIdConnect.Sample\Okta.Owin.OpenIdConnect.Sample.csproj", "{D4960069-0AB5-42D5-B711-722681DBCA0F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Okta.Owin.OpenIdConnect.HybridFlow", "Okta.Owin.OpenIdConnect.HybridFlow\Okta.Owin.OpenIdConnect.HybridFlow.csproj", "{D4960069-0AB5-42D5-B711-722681DBCA0F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
